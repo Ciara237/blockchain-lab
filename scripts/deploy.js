@@ -3,7 +3,7 @@ import hre from "hardhat";
 const { ethers } = await hre.network.connect();
 
 async function main() {
-    const Storage = await ethers.getContractFactory("SecureStorage");
+    const Storage = await ethers.getContractFactory("LabToken");
 
     const contract = await Storage.deploy();
 
