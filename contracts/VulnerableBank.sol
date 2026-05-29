@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.28;
 
 // INTENTIONALLY VULNERABLE — FOR EDUCATIONAL USE ONLY
 contract VulnerableBank {

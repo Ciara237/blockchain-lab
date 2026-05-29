@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.28;
 /// @title SimpleStorage - Lab Day 1 Starter Contract
 /// @notice Demonstrates state variables, events, and access control
 contract SimpleStorage {

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.28;
 // SECURE VERSION — Checks-Effects-Interactions pattern
 contract SecureBank {
     mapping(address => uint256) public balances;
